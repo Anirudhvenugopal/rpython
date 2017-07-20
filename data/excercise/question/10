@@ -1,0 +1,79 @@
+<b>1.Convert degree to radian</b>:PYTHON MATH:10
+<b>2.Convert radian to degree</b>:PYTHON MATH:10
+<b>3.Calculate area of a trapezoid</b>:PYTHON MATH:10
+<b>4.Calculate area of a parallelogram</b>:PYTHON MATH:10
+<b>5.Calculate surface volume & area of cylinder</b>:PYTHON MATH:10
+<b>6.Calculate surface volume & area of sphere</b>:PYTHON MATH:10
+<b>7.Calculate arc length of an angle</b>:PYTHON MATH:10
+<b>8.Calculate area of a sector</b>:PYTHON MATH:10
+<b>9.Calculate the discriminent value</b>:PYTHON MATH:10
+<b>10.Find smallest multiple of the first n numbers</b>:PYTHON MATH:10
+<b>11.Calculate the difference between squares of 1st n natural numbers</b>:PYTHON MATH:10
+<b>12.Calculate the sum of all digits of the base</b>:PYTHON MATH:10
+<b>13.Check if a number is abundant</b>:PYTHON MATH:10
+<b>14.Sum all amicable numbers from 1 to n</b>:PYTHON MATH:10
+<b>15.Sum of all divisors of a number</b>:PYTHON MATH:10
+<b>16.Print all permutation of a string</b>:PYTHON MATH:10
+<b>17.Print 1st n lucky numbers</b>:PYTHON MATH:10
+<b>18.Square roots with babylonian method</b>:PYTHON MATH:10
+<b>19.Multiply 2 integers without *</b>:PYTHON MATH:10
+<b>20.Calculate magic square</b>:PYTHON MATH:10
+<b>21.Print all primes smaller than n</b>:PYTHON MATH:10
+<b>22.Find the next smallest palindrome of n</b>:PYTHON MATH:10
+<b>23.Find the previous palindrome of a number</b>:PYTHON MATH:10
+<b>24.Generate all permutation of a list</b>:PYTHON MATH:10
+<b>25.Print nth Catalan number</b>:PYTHON MATH:10
+<b>26.Print number with comas as thousands separators</b>:PYTHON MATH:10
+<b>27.Calculate distance between 2 points with lattitude & longitude</b>:PYTHON MATH:10
+<b>28.Calculate area of regular polygon</b>:PYTHON MATH:10
+<b>29.Calculate wind chill index</b>:PYTHON MATH:10
+<b>30.Find the roots of a quadratic function</b>:PYTHON MATH:10
+<b>31.Convert a decimal to binary number</b>:PYTHON MATH:10
+<b>32.Print a complex number</b>:PYTHON MATH:10
+<b>33.Perform task with complex numbers</b>:PYTHON MATH:10
+<b>34.Get the length & angle of a complex number</b>:PYTHON MATH:10
+<b>35.Rectangular to Polar coordinates</b>:PYTHON MATH:10
+<b>36.Find max & min numbers from decimal numbers</b>:PYTHON MATH:10
+<b>37.Sum of decimal numbers</b>:PYTHON MATH:10
+<b>38.Square root & exponential of a decimal number</b>:PYTHON MATH:10
+<b>39.Current global context for all decimal</b>:PYTHON MATH:10
+<b>40.Round a decimal as specified</b>:PYTHON MATH:10
+<b>41.Round a number as specified</b>:PYTHON MATH:10
+<b>42.Get the local & default precision</b>:PYTHON MATH:10
+<b>43.Fraction instance of string</b>:PYTHON MATH:10
+<b>44.Fraction instance of float number</b>:PYTHON MATH:10
+<b>45.Fraction instance of decimal number</b>:PYTHON MATH:10
+<b>46.Manipulate fractions as follows </b>:PYTHON MATH:10
+<b>47.Floating number to approx rational value</b>:PYTHON MATH:10
+<b>48.Random float numbers in specific numerical range</b>:PYTHON MATH:10
+<b>49.Random integers in specific range</b>:PYTHON MATH:10
+<b>50.Random even integers in a specific range</b>:PYTHON MATH:10
+<b>51.Random element from a string</b>:PYTHON MATH:10
+<b>52.Shuffle following elements randomly</b>:PYTHON MATH:10
+<b>53.Flip a coin 1 thousand times</b>:PYTHON MATH:10
+<b>54.Random words from system dictionary</b>:PYTHON MATH:10
+<b>55.Randomly select an item in a list</b>:PYTHON MATH:10
+<b>56.Absolute value of a floating number</b>:PYTHON MATH:10
+<b>57.Standard deviation of following data</b>:PYTHON MATH:10
+<b>58.Floating number from mantissa exponent pair</b>:PYTHON MATH:10
+<b>59.Split a floating point number</b>:PYTHON MATH:10
+<b>60.Parse a math formula & put parenthesis around multiplication & division</b>:PYTHON MATH:10
+<b>61.Describe linear regression</b>:PYTHON MATH:10
+<b>62.Grid of hexagon coordinates of given radius</b>:PYTHON MATH:10
+<b>63.Create simple math quiz</b>:PYTHON MATH:10
+<b>64.Volume of tetrahedron</b>:PYTHON MATH:10
+<b>65.Value of e(2.718281827...) using infinite series</b>:PYTHON MATH:10
+<b>66.Create ASCII waveform</b>:PYTHON MATH:10
+<b>67.Create a dot string</b>:PYTHON MATH:10
+<b>68.Pythagorean theorem calculator</b>:PYTHON MATH:10
+<b>69.Round a number to specified digit</b>:PYTHON MATH:10
+<b>70.Casino simulation program</b>:PYTHON MATH:10
+<b>71.Reverse a range</b>:PYTHON MATH:10
+<b>72.Create a range for floating numbers</b>:PYTHON MATH:10
+<b>73.Generate a square matrix</b>:PYTHON MATH:10
+<b>74.Select a random date in current year</b>:PYTHON MATH:10
+<b>75.Calculate clusters using hierarchical clusturing method</b>:PYTHON MATH:10
+<b>76.find GCD using Euclidean Algorithm</b>:PYTHON MATH:10
+<b>77.RGB color to HSV color</b>:PYTHON MATH:10
+<b>78.Find perfect squares between 2 given numbers</b>:PYTHON MATH:10
+<b>79.Compute Euclidean distance in python</b>:PYTHON MATH:10

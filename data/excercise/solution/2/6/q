@@ -1,0 +1,7 @@
+Write a python program to remove duplicates from a given list and print the unique list.
+
+SAMPLE DATA:
+lst = [ 7,0,9,1,2,7,2,0,8,2 ]
+
+OUTPUT:
+NEW LIST = [ 7,0,9,1,2,8 ]

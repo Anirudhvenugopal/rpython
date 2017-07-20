@@ -1,0 +1,8 @@
+ft = input( "Enter feet : " )
+
+ft = float( ft )
+
+cm = 30.48 * ft
+
+print( ft , "feet =" , cm , "centimeter" )
+

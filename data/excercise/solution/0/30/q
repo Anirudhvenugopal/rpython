@@ -1,0 +1,8 @@
+Write a Python program to get the least common multiple (LCM) of two positive integers.
+
+INPUT;
+Enter 1st num : 4
+Enter 2nd number : 6
+
+OUTPUT:
+LCM is 12

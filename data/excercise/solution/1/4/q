@@ -1,0 +1,8 @@
+Write a python program to get a single from 2 strings, separated by a space and swap the first 2 characters of each string.
+
+INPUT:
+Enter str1 : abc
+Enter str2 : xyz
+
+OUTPUT:
+new string = xyc abz

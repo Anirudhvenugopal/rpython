@@ -1,0 +1,8 @@
+Write a Python program that will accept the base and height of a triangle and compute the area.
+
+INPUT:
+Enter base: 6
+Enter height: 5
+
+OUTPUT:
+Area is 15.0

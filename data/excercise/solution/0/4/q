@@ -1,0 +1,11 @@
+Write a Python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers.
+
+INPUT:
+Enter comma separated numbers: 1,2,3,4,5
+
+
+OUTPUT:
+List : ['1','2','3','4','5']
+Tuple : ('1','2','3','4','5')
+
+

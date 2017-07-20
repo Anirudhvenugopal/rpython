@@ -1,0 +1,7 @@
+Write a python program to remove the characters with odd index values of a given string and print the new string.
+
+INPUT:
+Enter a string : danish
+
+OUTPUT: 
+new string = dns

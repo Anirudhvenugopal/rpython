@@ -1,0 +1,13 @@
+Suppose the user inputs a number,
+n=5
+
+now, we need to calculate the value 5+55+555 using math algorithm.
+it's very simple,
+
+to turn n into nn, just multiply it with 10 and add n
+n1 = n*10+n i.e. 5*10+5 which returns 55 and using the same algo you can turn 55 into 555, i.e.
+n2 = n1*10+n i.e. 55*10+5 which returns 555.
+
+now to compute the final value of 5+55+555 we will add n+n1+n2.
+
+sum = n+n1+n2 = 615

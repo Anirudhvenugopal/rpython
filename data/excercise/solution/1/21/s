@@ -1,0 +1,6 @@
+s = input( "Enter a string : " )
+
+str_n = sorted( sorted(s) , key=str.upper )
+
+print( "Sorted string = " + str(str_n) )
+

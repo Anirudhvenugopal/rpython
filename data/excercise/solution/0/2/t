@@ -1,0 +1,22 @@
+In geometry, the area enclosed by a circle of radius r is πr2.
+
+Here the Greek letter π represents a constant, approximately equal to 3.14159, which is equal to the ratio of the circumference of any circle to its diameter.
+ 
+Python provides math module that has a constant variable pi
+
+
+STEPS:
+
+*Import pi from math module using from & import statement
+
+*Taking radius as input from the user using input() function.
+
+*Convert the given radius to floating number using float() function
+
+*Calculating area using the formula ( pi * r**2 ) where r**2 means r square.
+
+*Displaying the area with print function
+
+
+
+

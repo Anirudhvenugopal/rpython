@@ -1,0 +1,13 @@
+n = input( "Enter a number : " )
+
+n = int(n)
+
+if n > 17:
+		
+		df = (n-17) * 2
+		
+else:
+		
+		df = 17-n
+
+print( "difference is : \n" , df )

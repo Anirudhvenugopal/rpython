@@ -1,0 +1,12 @@
+str = input( "Enter sentence:\n" )
+
+snot = str.find( "not" )
+
+sbad = str.find( "bad" )
+
+if sbad > snot:
+		str_new = str.replace( str[ snot:sbad+3 ] , "good" )
+
+print( str_new )
+
+

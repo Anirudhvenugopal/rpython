@@ -1,0 +1,8 @@
+Write a python program to calculat the length of the longest word in a list of strings input by user in comma separated words.
+
+INPUT:
+Enter comma separated words:
+kali , ubuntu , mint , lite , lubuntu
+
+OUTPUT:
+lubuntu is longest word of length = 7

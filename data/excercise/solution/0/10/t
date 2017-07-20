@@ -1,0 +1,6 @@
+Python provides a 'calendar' module that contains a method month() which returns a month's calendar in a multiline string.
+
+SYNTAX:
+
+calendar.month( year , month )
+

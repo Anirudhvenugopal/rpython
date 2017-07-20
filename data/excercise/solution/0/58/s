@@ -1,0 +1,11 @@
+import math
+
+bs = int( input( "Enter base : " ) )
+
+ht = int( input( "Enter height: " ) )
+
+hp = math.sqrt( bs**2 + ht**2 )
+
+print( "Hypotenuse =" , math.ceil(round(hp,3)) )
+
+

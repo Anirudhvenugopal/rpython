@@ -1,0 +1,9 @@
+from datetime import date
+
+d1 = date( 2017,1,11 )
+
+d2 = date( 2017,1,17 )
+
+df = d2 - d1
+
+print( "difference betweeen date is \n" + str(df.days) )

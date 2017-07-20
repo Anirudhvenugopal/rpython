@@ -1,0 +1,4 @@
+Write a python program to find the value of (a+b)*(a+b) where a & b are integer input by user.
+
+(a+b)*(a+b) = a*a + 2ab +b*b
+

@@ -1,0 +1,9 @@
+Write a python program to accept a filename from the user and print the extension of that partivuler file.
+
+INPUT:
+
+Enter a file : file.py
+
+OUTPUT:
+
+The extension is : py

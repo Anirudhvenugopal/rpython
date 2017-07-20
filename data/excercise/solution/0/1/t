@@ -1,0 +1,15 @@
+The datetime module supplies classes for manipulating dates and times in both simple and complex ways.
+
+Datetime.now(tz=None) returns the current local date and time. If optional argument tz is None or not specified, this is like today().
+ 
+date.strftime(format) returns a string representing the date.
+Format codes referring to hours, minutes or seconds will see 0 values. 
+
+STEPS:
+
+*Import datetime module with import statement
+
+*Create a datetime object "now"
+
+*Print date in string format using strftime() method of datetime object
+

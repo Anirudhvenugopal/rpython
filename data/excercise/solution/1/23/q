@@ -1,0 +1,7 @@
+Write a python program to check whether a string starts with a specified substring (characters).
+
+INPUT:
+Enter a string: danish
+Enter substring: dan
+
+OUTPUT: true 

@@ -1,0 +1,11 @@
+Write a python program to remove elemnts with index nand print a new list, where n is input by user.
+
+lst = ["python","html","css","php",js"]
+
+INPUT:
+Enter index : 2
+
+OUTPUT:
+New list = ["python","html","php","js"]
+
+

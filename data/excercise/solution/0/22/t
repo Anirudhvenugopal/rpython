@@ -1,0 +1,5 @@
+In this example we will use the "in" statement of python.
+
+SYNTAX:
+"ell" in "Hello"
+this returns true if "ell" occurs in "Hello" and returns false if doesn't

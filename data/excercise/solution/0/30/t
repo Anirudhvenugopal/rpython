@@ -1,0 +1,10 @@
+In this example we need to find the Least common multiple of 2 positive numbers.
+
+LCM of 2 number is the smallest number which is divisible by both the numbers.
+
+suppose you have 2 numbers 4 & 6,
+
+multiples of 4 are 4,8,12,16,20,24,28 ....
+multiples of 6 are 6,12,18,24,30,36,42 ....
+
+Common multiples of 4 & 6 are 12 & 24 and since 12 is smaller than 24, so 12 is considered as the least common divisor of 4 & 6.

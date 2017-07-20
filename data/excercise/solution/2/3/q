@@ -1,0 +1,8 @@
+Write a python program to input comma separated numbers and print the smallest one after converting them into list.
+
+INPUT:
+Enter Comma separated nums: 
+7,0,9,1,2,7,2,8,2
+
+OUTPUT:
+Smallest = 0

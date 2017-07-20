@@ -1,0 +1,8 @@
+x = 7
+
+print( " {:<30d} ".format(x) )
+
+print( " {:30d} ".format(x) )
+
+print( " {:^30d} ".format(x) )
+

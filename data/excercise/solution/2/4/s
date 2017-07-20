@@ -1,0 +1,10 @@
+lst = [ "python" , "assembly" , "css" , "html" , "php" ]
+
+i = 0
+
+for w in lst:
+		if len(w) < 4:
+				i += 1
+
+print( i )
+

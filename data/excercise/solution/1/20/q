@@ -1,0 +1,6 @@
+Write a python program to convert all characters of a string to uppercase only if it contains 2 upper case characters in it's 1st four characters.
+
+INPUT:
+Enter a string : dAnIsh
+
+OUTPUT: DANISH

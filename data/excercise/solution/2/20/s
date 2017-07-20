@@ -1,0 +1,4 @@
+lst = [ 'h' , 'e' , 'l' , 'l' , 'o' ]
+
+print( "".join(lst) )
+

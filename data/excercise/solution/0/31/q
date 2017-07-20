@@ -1,0 +1,9 @@
+Write a python program to print each digit of a multiple digit number separetely without converting it into string
+
+INPUT:
+Enter a multiple digit number : 546
+
+OUTPUT:
+5
+4
+6

@@ -1,0 +1,11 @@
+Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s). 
+
+SAMPLE FUNCTION: abs()
+
+OUTPUT: 
+
+abs(number) -> number
+Return the absolute value of the argument
+
+
+

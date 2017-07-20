@@ -1,0 +1,7 @@
+str1 = input( "Enter a string : " )
+
+str2 = input( "Enter substring : " )
+
+print( str1.startswith(str2) )
+
+

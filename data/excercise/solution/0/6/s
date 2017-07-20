@@ -1,0 +1,5 @@
+str = input( "Enter a string : " )
+
+print( "First char is : " + str[0] )
+
+print( "Last char is : " +  str[-1] )

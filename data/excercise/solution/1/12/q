@@ -1,0 +1,7 @@
+Write a python program to print a string in upper and lower case after taking input by the user.
+
+INPUT:
+Enter a string: danishnayeem
+
+OUTPUT: 
+new string = DaNiShNaYeEm

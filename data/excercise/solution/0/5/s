@@ -1,0 +1,5 @@
+fn = input( "Enter a filename : " );
+
+list = fn.split( "." );
+
+print( "The extension of file is : " + list[-1] );

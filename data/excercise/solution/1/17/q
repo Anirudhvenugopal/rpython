@@ -1,0 +1,7 @@
+Write a python programk to create a new string containing the 1st 3 characters of a specified string. if the length of the string is less than 3, print the original string.
+
+INPUT:
+Enter a string: black
+
+OUTPUT:
+new string = bla

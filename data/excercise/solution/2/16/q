@@ -1,0 +1,6 @@
+Write a python program to create a new list containing all elements of a given list excluding the 1st and last 3 elements.
+
+lst = [7,0,9,1,2,7,2,0,8,2]
+
+OUTPUT:
+new list = [1,2,7,2]

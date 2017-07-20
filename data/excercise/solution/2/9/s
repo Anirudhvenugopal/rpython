@@ -1,0 +1,7 @@
+lst = [ 7,0,9,1,2,7,2 ]
+
+lst_copy = list( lst )
+
+print( "ORIGINAL =" , lst )
+
+print( "CLONED =" , lst_copy )

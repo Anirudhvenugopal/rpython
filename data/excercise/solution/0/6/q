@@ -1,0 +1,11 @@
+Write a python program to print the first and last character of a string input by user.
+
+INPUT:
+
+Enter a string : hello
+
+OUTPUT:
+
+First char is : h
+Last char is : o
+

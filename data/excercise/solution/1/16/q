@@ -1,0 +1,7 @@
+Write a python program to create a new string containing 4 copies of last 2 characters of a specified string.
+
+INPUT:
+Enter a string: danish
+
+OUTPUT:
+new string = shshshsh

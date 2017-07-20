@@ -1,0 +1,8 @@
+Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference.
+
+SAMPLE INPUT: 15
+OUTPUT: 2
+
+SAMPLE INPUT2: 20
+OUTPUT: 6
+

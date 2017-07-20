@@ -1,0 +1,8 @@
+Write a python program to count the occurence of each word in a given sentence.
+
+INPUT:
+Enter a sentence:
+better the devil you know than the devil you dont
+
+OUTPUT:
+{'better':1 , 'the':2 , 'devil':2 , 'you':2 , 'know':1 , 'than':1 , 'dont'}

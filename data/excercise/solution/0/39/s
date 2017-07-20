@@ -1,0 +1,8 @@
+import os.path
+
+f = "/usr/bin/python"
+
+if os.path.isfile(f):
+		print( f , "exist")
+else:
+		print( f , "Does not exist" )

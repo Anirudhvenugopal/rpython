@@ -1,0 +1,15 @@
+str = input( "Enter a sentence :\n" )
+
+list = str.split(" ")
+
+dic = {}
+
+for st in list:
+		keys = dic.keys()
+		if st in keys:
+				dic[st] += 1
+		else:
+				dic[st] = 1
+
+print( dic )
+

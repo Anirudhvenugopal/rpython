@@ -1,0 +1,6 @@
+import textwrap
+
+str1 = input( "Enter a long paragraph : " )
+
+print( textwrap.fill( str1 , width=50 ) )
+

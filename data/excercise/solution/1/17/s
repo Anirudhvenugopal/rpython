@@ -1,0 +1,10 @@
+str = input( "Enter a string : " )
+
+if len(str) < 3:
+		print("new string = " + str)
+		exit()
+
+strn = str[0:3]
+
+print( "New string = " + strn )
+

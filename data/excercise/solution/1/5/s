@@ -1,0 +1,15 @@
+str = input( "Enter a string : " )
+
+l = len( str )
+
+if l<3:
+		print( str )
+		exit()
+
+if str[ l-3:l ] == "ing":
+		str += "ly"
+else:
+		str += "ing"
+
+print( str )
+

@@ -1,0 +1,1 @@
+In this example we need input a group of number from the user and then split them with commas to create a list and then we will use "in" statement of python to check the occurence of n in the list.

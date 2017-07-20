@@ -1,0 +1,11 @@
+In python you display multiline strings using triple double quotes.
+
+for example
+
+print("""
+
+ any string inside 
+	triple double quote
+will print as is
+ 
+""")

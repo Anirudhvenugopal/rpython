@@ -1,0 +1,8 @@
+Write a python program to input a comma separated list of words and print the unique words alphabetically.
+
+INPUT:
+Enter comma separated words: red, white, black, red, green
+
+OUTPUT:
+black, green, red, white
+

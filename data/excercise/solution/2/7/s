@@ -1,0 +1,4 @@
+ls = []
+
+if not ls:
+		print( "Empty list" )

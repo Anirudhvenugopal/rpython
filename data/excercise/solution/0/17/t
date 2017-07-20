@@ -1,0 +1,16 @@
+In this program first of all we need to check whether the string starts with 'Mr' or not.
+
+for this, we need to check the first 2 character of the string, i.e. we need to extract the 1st 2 character.
+
+As before I told you that python provides treats all strings as a list,i.e. you can manipulate a string using square brackets.
+
+Suppose you have a string:
+str = "Mr Robot"
+to extract the first 2 character, you can use square brackets in this way:
+
+str[:2] will extract the character atposition less than 2, i.e. char at 0 & 1 (M & r)
+
+So will use the same method to extract the first 2 characters and check whether it is already 'Mr'. If it is so, then we not add 'Mr' and if it's not then we need to add 'Mr' at the beginning of the string.
+
+note: len(str) returns the length of the string
+

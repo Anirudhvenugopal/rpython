@@ -1,0 +1,8 @@
+Write a Python program to get the n (non-negative integer input by user) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2.
+
+INPUT:
+Enter a string : Hello
+Enter a number : 5
+
+OUTPUT:
+HeHeHeHeHe

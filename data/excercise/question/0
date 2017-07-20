@@ -1,0 +1,120 @@
+<b>1.Display Hello World message</b>:PYTHON BASIC:0
+<b>2.Display current date & time</b>:PYTHON BASIC:0
+<b>3.Compute the area of a circle</b>:PYTHON BASIC:0
+<b>4.Print a string in reverse order</b>:PYTHON BASIC:0
+<b>5.Generate a list & tuple with coma seperated numbers</b>:PYTHON BASIC:0
+<b>6.Print the extension of a filename</b>:PYTHON BASIC:0
+<b>7.Display first & last character of a string</b>:PYTHON BASIC:0
+<b>8.Display a rhyme in the specified format</b>:PYTHON BASIC:0
+<b>9.Compute the value of n+nn+nnn where n is an integer</b>:PYTHON BASIC:0
+<b>10.Display description of built-in function(s)</b>:PYTHON BASIC:0
+<b>11.Print calendar of a given month & year</b>:PYTHON BASIC:0
+<b>12.Display the given paragraph as specified</b>:PYTHON BASIC:0
+<b>13.Calculate number of days between two days</b>:PYTHON BASIC:0
+<b>14.Calculate volume of sphere with radius 6</b>:PYTHON BASIC:0
+<b>15.Calculate difference between given number & 17</b>:PYTHON BASIC:0
+<b>16.Test whether a number is within 100 or 1000 or 2000</b>:PYTHON BASIC:0
+<b>17.Calculate the sum of 3 given numbers</b>:PYTHON BASIC:0
+<b>18.Add 'Mr' at the beginning of a string</b>:PYTHON BASIC:0
+<b>19.Check whether a given number is even or odd</b>:PYTHON BASIC:0
+<b>20.Print a given string n times</b>:PYTHON BASIC:0
+<b>21.Count the occurence of given number in a list</b>:PYTHON BASIC:0
+<b>22.Display the n copies of the first 2 characters of a string</b>:PYTHON BASIC:0
+<b>23.Check whther a letter is a vovel or not</b>:PYTHON BASIC:0
+<b>24.Check whether a number exist in a list or not </b>:PYTHON BASIC:0
+<b>25.Create histogram from a list of integers </b>:PYTHON BASIC:0
+<b>26.Concatenate all elements in a list into a string</b>:PYTHON BASIC:0
+<b>27.Print all even numbers from a given list of integers</b>:PYTHON BASIC:0
+<b>28.Pint the unique integers between two given list of integers</b>:PYTHON BASIC:0
+<b>29.Compute the area of a triangle</b>:PYTHON BASIC:0
+<b>30.Calculate the GCD of two positive integers</b>:PYTHON BASIC:0
+<b>31.Calculate LCM of two positive integers</b>:PYTHON BASIC:0
+<b>32.Print each digit seperately of a  3 digit integer</b>:PYTHON BASIC:0
+<b>33.Calculate the sum of all digits of multiple digit integer</b>:PYTHON BASIC:0
+<b>34.Calculate the number of occurence of a character in a string</b>:PYTHON BASIC:0
+<b>35.Display your biodata in a specified format</b>:PYTHON BASIC:0
+<b>36.Check whether a given value is integer or a string</b>:PYTHON BASIC:0
+<b>37.Solve the following equation (a+b)*(a+b)</b>:PYTHON BASIC:0
+<b>38.Calculate the final amount when principal rate & time is given</b>:PYTHON BASIC:0
+<b>39.Calculate the distance between 2 points (x1 y1) & (x2 y2)</b>:PYTHON BASIC:0
+<b>40.Check whether a file exist or not</b>:PYTHON BASIC:0
+<b>41.Check whether the OS is 32bit or 64bit</b>:PYTHON BASIC:0
+<b>42.Get the OS name & platform of your system</b>:PYTHON BASIC:0
+<b>43.Locate python site-packages</b>:PYTHON BASIC:0
+<b>44.Call an external command in python</b>:PYTHON BASIC:0
+<b>45.Get the path and name of the current executed file </b>:PYTHON BASIC:0
+<b>46.Find the number of CPU's using </b>:PYTHON BASIC:0
+<b>47.Parse a string into float and integer</b>:PYTHON BASIC:0
+<b>48.List all files in a directory</b>:PYTHON BASIC:0
+<b>49.Print without newline or space</b>:PYTHON BASIC:0
+<b>50.Determine profiling of python programs</b>:PYTHON BASIC:0
+<b>51.Print to stderr</b>:PYTHON BASIC:0
+<b>52.Access environment variables</b>:PYTHON BASIC:0
+<b>53.Get the current username</b>:PYTHON BASIC:0
+<b>54.Find local IP addresses using stdlib</b>:PYTHON BASIC:0
+<b>55.Determine the height & width of the console window</b>:PYTHON BASIC:0
+<b>56.Get execution time for a python method</b>:PYTHON BASIC:0
+<b>57.Calculate the sum of first n positive integers</b>:PYTHON BASIC:0
+<b>58.Convert feet into centimeters</b>:PYTHON BASIC:0
+<b>59.Calculate the hypotenuse of a right angled triangle</b>:PYTHON BASIC:0
+<b>60.convert feet into yards and miles</b>:PYTHON BASIC:0
+<b>61.Convert all units of time into seconds</b>:PYTHON BASIC:0
+<b>62.Get an absolute file path</b>:PYTHON BASIC:0
+<b>63.Get file creation and modification date & time</b>:PYTHON BASIC:0
+<b>64.Convert seconds into days ^c^ hours ^c^ minutes ^c^ seconds</b>:PYTHON BASIC:0
+<b>65.Calculate body mass index</b>:PYTHON BASIC:0
+<b>66.Convert pressure in kilopascals into the following units</b>:PYTHON BASIC:0
+<b>67.Calculate sum of first 3 digits of an integer</b>:PYTHON BASIC:0
+<b>68.Sort 3 integers without conditional statements</b>:PYTHON BASIC:0
+<b>69.Sort files by date of modification</b>:PYTHON BASIC:0
+<b>70.Get a directory listing sorted by creation date</b>:PYTHON BASIC:0
+<b>71.Get the details of math module</b>:PYTHON BASIC:0
+<b>72.Calculate midpoints of line</b>:PYTHON BASIC:0
+<b>73.Hash a given word</b>:PYTHON BASIC:0
+<b>74.Get copyright information</b>:PYTHON BASIC:0
+<b>75.Get commandline arguments passed to the script</b>:PYTHON BASIC:0
+<b>76.Check whether a system is big-endian or little-endian platform</b>:PYTHON BASIC:0
+<b>77.Find the available buil-in modules</b>:PYTHON BASIC:0
+<b>78.Get the size of an object in bytes</b>:PYTHON BASIC:0
+<b>79.get the current value of recursion limit</b>:PYTHON BASIC:0
+<b>80.Concatenate n strings</b>:PYTHON BASIC:0
+<b>81.Calculate the sum over a container</b>:PYTHON BASIC:0
+<b>82.Check whether a given number is greater among all numbers in a list</b>:PYTHON BASIC:0
+<b>83.Calculate the number of occurence of a specific string in a paragraph</b>:PYTHON BASIC:0
+<b>84.Check whther a filepath is file or a directory</b>:PYTHON BASIC:0
+<b>85.Get the ASCII value of a character</b>:PYTHON BASIC:0
+<b>86.Get the size of a file</b>:PYTHON BASIC:0
+<b>87.Swap two given positive integers</b>:PYTHON BASIC:0
+<b>88.Perform an action if a condition is true</b>:PYTHON BASIC:0
+<b>89.Create a copy of its on sourcecode</b>:PYTHON BASIC:0
+<b>90.Print a given number in reverse order</b>:PYTHON BASIC:0
+<b>91.Define a string containing special characters in various forms</b>:PYTHON BASIC:0
+<b>92.Get identity of an object</b>:PYTHON BASIC:0
+<b>93.Convert a byte string into a list of integers</b>:PYTHON BASIC:0
+<b>94.Check whether a string is numeric</b>:PYTHON BASIC:0
+<b>95.Print the current call stack</b>:PYTHON BASIC:0
+<b>96.List the special variables used within the language</b>:PYTHON BASIC:0
+<b>97.Get the system time</b>:PYTHON BASIC:0
+<b>98.Clear the screen of terminal</b>:PYTHON BASIC:0
+<b>99.Get the name of the host on which the routine is running</b>:PYTHON BASIC:0
+<b>100.Access and print a URL contents onto the console</b>:PYTHON BASIC:0
+<b>101.Get system command output</b>:PYTHON BASIC:0
+<b>102.Extract the filename from a given path</b>:PYTHON BASIC:0
+<b>103.Get group ids associated with the current process</b>:PYTHON BASIC:0
+<b>104.Get the users environment</b>:PYTHON BASIC:0
+<b>105.Devide a path on the extension separator</b>:PYTHON BASIC:0
+<b>106.Retrieve the file properties</b>:PYTHON BASIC:0
+<b>107.Find path refers to a file or directory</b>:PYTHON BASIC:0
+<b>108.Check whether a number is positive negative or zero</b>:PYTHON BASIC:0
+<b>109.Use anonymous function to find the numbers divisible by 15</b>:PYTHON BASIC:0
+<b>110.Create file lists from current directory using wildcards</b>:PYTHON BASIC:0
+<b>111.Remove first item from a list</b>:PYTHON BASIC:0
+<b>112.Input only numbers or generate error message</b>:PYTHON BASIC:0
+<b>113.Filter positive numbers from a list</b>:PYTHON BASIC:0
+<b>114.Compute the product of a list of integers</b>:PYTHON BASIC:0
+<b>115.Print unicode characters</b>:PYTHON BASIC:0
+<b>116.Prove that two string variables of same values point same memory location</b>:PYTHON BASIC:0
+<b>117.Create a byte array from a list</b>:PYTHON BASIC:0
+<b>118.Display a floating number in a specified numbers</b>:PYTHON BASIC:0
+<b>119.Format a string to limit the number of characters to 6</b>:PYTHON BASIC:0
+<b>120.Find the product of each digit of a given integer</b>:PYTHON BASIC:0

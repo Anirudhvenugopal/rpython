@@ -1,0 +1,8 @@
+Write a python program to print a given string n times where n is an integer input by user and the string is also input by user.
+
+INPUT:
+Enter a string : ding
+Enter a positive number : 5
+
+OUTPUT:
+dingdingdingdingding

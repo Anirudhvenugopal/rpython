@@ -1,0 +1,14 @@
+import textwrap
+
+str1 = """
+this is first line
+this is second line
+this is third line
+"""
+
+str2 = textwrap.dedent( str1 ).strip()
+
+str_n = textwrap.fill( str2 , initial_indent='' , subsequent_indent=' '*4 , width=80 )
+
+print( str_n )
+

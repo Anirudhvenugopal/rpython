@@ -1,0 +1,5 @@
+str1 = "This line ends with a newline \n "
+
+print( str1 )
+
+print( str1.rstrip() )

@@ -1,0 +1,12 @@
+Write a python program to find the index of an specified element in a list.
+
+lst = [ "python" , "html" , "php" , "css" ]
+
+INPUT:
+Enter an element : html
+
+OUTPUT:
+Index of element is 1
+
+
+

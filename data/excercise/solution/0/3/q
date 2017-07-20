@@ -1,0 +1,12 @@
+Write a program in python to accept 2 strings from the user and print them in reverse with a space in between.
+
+INPUT:
+
+Enter first string: Hello
+Enter second string: World
+
+
+OUTPUT:
+
+String in reverse order is :
+World Hello

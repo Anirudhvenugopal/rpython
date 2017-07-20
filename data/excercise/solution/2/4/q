@@ -1,0 +1,6 @@
+Write a python program tocount the number of stringswith length less than 4 in a list of strings.
+
+SAMPLE DATA:
+lst = [ "python","assembly","css","html","php" ]
+
+OUTPUT: 2

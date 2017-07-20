@@ -1,0 +1,7 @@
+Write a python program to generate a new list containing the 1st and last 3 elements of a given list.
+
+lst = [7,0,9,1,2,7,2,0,8,2]
+
+OUTPUT:
+New list = [7,0,9,0,8,2]
+

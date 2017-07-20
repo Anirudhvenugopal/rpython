@@ -1,0 +1,12 @@
+For this solution we don't require any additional module.
+
+STEPS:
+
+*Input first string from the user with print() function
+
+*Input second string from the user with print() function
+
+*Join them in reverse with a space between them using + operator
+
+*Print the final string with print() function
+

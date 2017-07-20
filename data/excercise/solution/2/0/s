@@ -1,0 +1,8 @@
+lst = [ 7,0,9,1,2,7,2,0,8,2 ]
+
+sum = 0
+
+for n in lst:
+		sum += n
+
+print( "SUM =" , sum )

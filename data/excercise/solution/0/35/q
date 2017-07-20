@@ -1,0 +1,7 @@
+Write a python program to check whether a given variable is positive integer or string.
+
+INPUT:
+Enter something : 45
+
+OUTPUT:
+45 is integer

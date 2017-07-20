@@ -1,0 +1,11 @@
+str = input( "Enter a string : " )
+
+n = input( "Enter a number : " )
+
+n = int(n)
+
+if len(str) < 2 :
+		print( str * n )
+else:
+		print( str[:2] * n )
+

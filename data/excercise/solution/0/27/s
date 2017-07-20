@@ -1,0 +1,5 @@
+lst1 = set( [2,5,3,4] )
+
+lst2 = set( [2,7,3,9])
+
+print( lst1.difference(lst2) )

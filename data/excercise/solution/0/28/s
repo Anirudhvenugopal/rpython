@@ -1,0 +1,12 @@
+bs = input( "Enter base : " )
+
+bs = int(bs)
+
+ht = input( "Enter height : " )
+
+ht = int(ht);
+
+area = 1/2 * bs * ht
+
+print( "Area is" , area )
+

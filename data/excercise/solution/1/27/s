@@ -1,0 +1,12 @@
+import textwrap
+
+str1 = """
+These lines in here
+will have prefix( >> ) added
+at the beginning of each line
+"""
+str_new = textwrap.indent( str1 , '>> ' )
+
+print( "\n" + str_new )
+
+

@@ -1,0 +1,19 @@
+The print statement (of Python 2.6) has been replaced with a print() function (of Python 2.6)
+
+The print() function doesn’t support the “softspace" feature of the old print statement.
+
+Here's the difference
+
+PYTHON 2.X
+print "Hello World"
+
+PYTHON 3.0
+print("Hello World")
+
+Initially you'll be finding yourself typing the old print x a lot in interactive mode. Time to retrain your fingers to type print(X) instead!
+
+steps are simple:
+
+* use print() function to display text.
+
+

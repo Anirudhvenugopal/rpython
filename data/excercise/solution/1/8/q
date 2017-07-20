@@ -1,0 +1,7 @@
+Write a python program to remove the n^th index character from a given string.
+
+INPUT:
+Enter string : danish
+Enter index : 3
+
+OUTPUT: dansh

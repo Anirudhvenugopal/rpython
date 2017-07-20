@@ -1,0 +1,51 @@
+<b>1.Dispaly the following mentioned</b>:PYTHON DATE TIME:8
+<b>2.Check if a given year is leap year</b>:PYTHON DATE TIME:8
+<b>3.Convert a string to date time</b>:PYTHON DATE TIME:8
+<b>4.Get current time in python</b>:PYTHON DATE TIME:8
+<b>5.Subtract 5 days from a given date</b>:PYTHON DATE TIME:8
+<b>6.Convert unix timestamp to readable date</b>:PYTHON DATE TIME:8
+<b>7.Print yesterday ^c^ today ^c^ tommorow</b>:PYTHON DATE TIME:8
+<b>8.Convert date to datetime</b>:PYTHON DATE TIME:8
+<b>9.Print next five days starting from today</b>:PYTHON DATE TIME:8
+<b>10.Add 5 seconds to the current time</b>:PYTHON DATE TIME:8
+<b>11.Convert year/month/day to day of year in python</b>:PYTHON DATE TIME:8
+<b>12.Get current time in milliseconds</b>:PYTHON DATE TIME:8
+<b>13.Get week number</b>:PYTHON DATE TIME:8
+<b>14.Find the date of the 1st monday of a given week</b>:PYTHON DATE TIME:8
+<b>15.Select all the sundays of a specified year</b>:PYTHON DATE TIME:8
+<b>16.Add year(s) with a given date & display the new date</b>:PYTHON DATE TIME:8
+<b>17.Drop microseconds from a datetime</b>:PYTHON DATE TIME:8
+<b>18.Get days between 2 days</b>:PYTHON DATE TIME:8
+<b>19.Get the date of last tuesday</b>:PYTHON DATE TIME:8
+<b>20.Test the 3rd tuesday of a month</b>:PYTHON DATE TIME:8
+<b>21.Get the last day of year & month</b>:PYTHON DATE TIME:8
+<b>22.get the number of days of month & year</b>:PYTHON DATE TIME:8
+<b>23.Add a month to a date</b>:PYTHON DATE TIME:8
+<b>24.Count the number of monday</b>:PYTHON DATE TIME:8
+<b>25.Print a string 5 times with 3 seconds delay</b>:PYTHON DATE TIME:8
+<b>26.Calculate the date 6 month from current date</b>:PYTHON DATE TIME:8
+<b>27.Create 12 fixed dates from a given date</b>:PYTHON DATE TIME:8
+<b>28.Get the date 30 days before & after current date</b>:PYTHON DATE TIME:8
+<b>29.Get the GMT & local current time</b>:PYTHON DATE TIME:8
+<b>30.Convert date to timestamp</b>:PYTHON DATE TIME:8
+<b>31.Convert string date to timestamp</b>:PYTHON DATE TIME:8
+<b>32.Calculate number of days between 2 dates</b>:PYTHON DATE TIME:8
+<b>33.Calculate number of days between 2 datetime</b>:PYTHON DATE TIME:8
+<b>34.Display date & time in human-friendly string</b>:PYTHON DATE TIME:8
+<b>35.Convert a date to unix timestamp</b>:PYTHON DATE TIME:8
+<b>36.Calculate 2 date difference in seconds</b>:PYTHON DATE TIME:8
+<b>37.Convert 2 date difference in days ^c^ hours ^c^ minutes ^c^ seconds</b>:PYTHON DATE TIME:8
+<b>38.Get last modified information of a file</b>:PYTHON DATE TIME:8
+<b>39.Calculate age in year</b>:PYTHON DATE TIME:8
+<b>40.Get current datetime information</b>:PYTHON DATE TIME:8
+<b>41.Generate date & time as a string</b>:PYTHON DATE TIME:8
+<b>42.Display formatted text output of a month</b>:PYTHON DATE TIME:8
+<b>43.Print 3 column calendar of a year</b>:PYTHON DATE TIME:8
+<b>44.Display a calendar for a locale</b>:PYTHON DATE TIME:8
+<b>45.Get the current week</b>:PYTHON DATE TIME:8
+<b>46.Create html calendar with date for aspecific year & month</b>:PYTHON DATE TIME:8
+<b>47.Display a list of dates specified as following</b>:PYTHON DATE TIME:8
+<b>48.Display a simple formatted calendar of a year</b>:PYTHON DATE TIME:8
+<b>49.Convert a sting into datetime</b>:PYTHON DATE TIME:8
+<b>50.Get a list of dates between 2 dates</b>:PYTHON DATE TIME:8
+<b>51.Generate RFC 3339 timestamp</b>:PYTHON DATE TIME:8

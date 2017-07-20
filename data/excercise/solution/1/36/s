@@ -1,0 +1,14 @@
+str1 = input( "Enter a string : " )
+
+str2 = input( "Enter a substring : " )
+
+lst = str1.split(" ")
+
+i = 0
+
+for each in lst:
+		if each == str2:
+				i += 1
+
+print( str2 + " =" , i )
+

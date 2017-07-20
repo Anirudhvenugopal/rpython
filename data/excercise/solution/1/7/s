@@ -1,0 +1,13 @@
+str = input( "Enter comma separated words :\n" )
+
+list = str.split( "," )
+
+max = 0
+
+for s in list:
+		if len(s) > max:
+				max = len(s)
+				i = s
+
+print( i + " is the longest word of length =" , max )
+

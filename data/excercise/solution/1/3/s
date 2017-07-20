@@ -1,0 +1,8 @@
+str = input( "Enter a string : " )
+
+l = len( str )
+
+str_new = '$' + str[ 1 : l ]
+
+print( str_new )
+

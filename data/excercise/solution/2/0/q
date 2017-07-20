@@ -1,0 +1,7 @@
+Write a python program to sum all items in a list.
+
+SAMPLE DATA:
+lst = [7,0,9,1,2,7,2,0,8,2]
+
+OUTPUT:
+SUM = 38

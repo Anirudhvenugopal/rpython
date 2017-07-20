@@ -1,0 +1,9 @@
+Write a python program to print out set of all the numbers from list1 which are not present in list2.
+
+SAMPLE DATA:
+lst1 = [2,5,3,4]
+lst2 = [2,7,3,9]
+
+OUTPUT:
+5,4
+

@@ -1,0 +1,12 @@
+import platform
+
+import os
+
+print( "You OS is " , os.name )
+
+print( "Platform details : " )
+
+print( platform.system() )
+
+print( platform.release() )
+

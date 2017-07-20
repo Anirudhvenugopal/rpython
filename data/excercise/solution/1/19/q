@@ -1,0 +1,7 @@
+Write a python program to reverse a string if the length of string is multiple of 3. else rprint an error message.
+
+INPUT:
+Enter a string: danish
+
+OUTPUT:
+reverse = hsinad

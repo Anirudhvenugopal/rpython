@@ -1,0 +1,11 @@
+Write a python program to insert a string in the middle of another string.
+
+INPUT:
+Enter a string : [[[]]]
+Enter middle string: danish
+
+OUTPUT:
+new string = [[[danish]]]
+
+
+

@@ -1,0 +1,11 @@
+lst = [2,5,0,3,1,9,9,7]
+
+lst_new = []
+
+ln = len(lst)
+
+for i in range( 0 , ln ):
+		if i%2 != 0 :
+				lst_new.append(lst[i])
+
+print( "Filtered List =" , lst_new )

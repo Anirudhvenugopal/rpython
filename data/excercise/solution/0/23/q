@@ -1,0 +1,8 @@
+Write a program to check if a number exsist in a group of numbers entered by user.
+
+INPUT:
+Enter a group of numbers : 1,2,3,4,5
+Enter the number to Check : 4
+
+OUTPUT:
+4 exsist in the group

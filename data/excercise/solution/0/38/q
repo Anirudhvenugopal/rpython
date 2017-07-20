@@ -1,0 +1,8 @@
+Write a python program tofind the distance between 2 points (x1,y1) and (x1,y2)
+store the points in a list.
+p1 = [4,0]
+p2 = [6,6]
+
+
+
+

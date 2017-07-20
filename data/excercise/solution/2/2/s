@@ -1,0 +1,8 @@
+lst = input( "Enter Comma separated nums: " )
+
+lst = lst.split(",")
+
+mx = max( lst )
+
+print( "Largest =" , mx )
+

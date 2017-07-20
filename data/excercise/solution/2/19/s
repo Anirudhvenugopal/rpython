@@ -1,0 +1,8 @@
+lst = [7,0,9,1]
+
+for lst_index,lst_val in enumerate(lst):
+		print( lst_index , lst_val )
+
+
+
+

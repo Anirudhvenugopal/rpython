@@ -1,0 +1,11 @@
+lst = [ "python","assembly","cpp","html","javascript" ]
+
+n = input( "Enter n : " )
+
+n = int(n)
+
+for i in lst:
+		if len(i) > n:
+			print( i )
+
+

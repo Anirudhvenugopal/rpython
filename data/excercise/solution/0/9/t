@@ -1,0 +1,8 @@
+All python modules, functions, classes, and methods has an special attribute __doc__  (two underscore side by side with 'doc' in between)
+
+This special attribute contains the docstring which is also known as a simple documentation of that particuler object.
+
+for example, if you want to know the use of a particuler function, like abs()
+
+then just use abs.__doc__ and it will return you a simple docstring 
+

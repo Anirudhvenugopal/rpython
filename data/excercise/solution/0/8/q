@@ -1,0 +1,7 @@
+Compute the value of n+nn+nnn where n is an integer input by user.
+
+INPUT:
+
+Enter a number : 5
+
+value of 5+55+555 is : 615

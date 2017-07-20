@@ -1,0 +1,7 @@
+Write a python program to get the first half of a specified string of even length. if the length of the string is odd or 0 then display error message.
+
+INPUT:
+Enter a string : danish
+
+OUTPUT:
+1st half = dan

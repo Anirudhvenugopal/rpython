@@ -1,0 +1,12 @@
+str = input( "Enter a string : " )
+
+dic = {}
+
+for s in str:
+		keys = dic.keys()
+		if s in keys:
+				dic[s] += 1
+		else:
+				dic[s] = 1
+
+print( dic )

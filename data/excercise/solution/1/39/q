@@ -1,0 +1,10 @@
+Write a python program to strip a set of characters from a string.
+
+INPUT:
+Enter a string: hello world
+Enter strip characters : aeiou
+
+OUTPUT:
+new string = hll wrld
+
+

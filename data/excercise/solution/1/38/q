@@ -1,0 +1,7 @@
+Write a python program to reverse words in a sentence.
+
+INPUT:
+Enter a sentence : python is awesome
+
+OUTPUT:
+awesome is python

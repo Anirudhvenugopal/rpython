@@ -1,0 +1,12 @@
+a = input( "Enter value of a : " )
+
+b = input( "Enter value of b : " )
+
+a = int(a)
+
+b = int(b)
+
+ans = a*a + 2*a*b + b*b
+
+print( "(a+b)*(a+b) =" , ans )
+

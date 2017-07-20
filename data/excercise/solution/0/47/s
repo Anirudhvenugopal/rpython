@@ -1,0 +1,11 @@
+from os import listdir
+
+from os.path import isfile
+
+all = listdir("/home")
+
+for f in all:
+		tmp = "/home/" + f
+		if( isfile(tmp) ):
+				print(f)
+

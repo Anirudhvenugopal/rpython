@@ -1,0 +1,11 @@
+In python you can actually perform many integer manipulations with strings too.
+
+Suppose you have a string:
+str = "hell"
+
+now:
+
+str + 'o' will return "hello"
+str * 2 will return 2 times hell, i.e. "hellhell"
+
+so we willuse the same method in here

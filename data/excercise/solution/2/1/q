@@ -1,0 +1,7 @@
+Write a python program to find multiplies all items in a list.
+
+SAMPLE DATA:
+lst = [ 7,9,1,2,7,2,8,2 ]
+
+OUTPUT:
+Product = 28224

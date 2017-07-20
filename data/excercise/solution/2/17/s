@@ -1,0 +1,8 @@
+import itertools
+
+lst = [1,2,3]
+
+print( itertools.permutations( lst ) )
+
+
+

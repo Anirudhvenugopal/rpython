@@ -1,0 +1,7 @@
+Write a python program to sort a given list of numbers in increasing order.
+
+SAMPLE DATA:
+lst = [7,0,9,1,2,7,2,0,8,2]
+
+OUTPUT:
+SORT = [0,0,1,2,2,2,7,7,8,9]

@@ -1,0 +1,4 @@
+In this example we need to extract the first 2 characters from a given string and print it n times.
+
+to extract the 1st 2 character, we will use square brackets and to print it n times, we will multiply the extracted string with n.
+

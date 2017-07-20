@@ -1,0 +1,8 @@
+Write a Python program to calculate number of days between two dates.
+
+SAMPLE DATA: 
+d1 = (2017,1,11)
+d2 = (2017,1,17)
+
+OUTPUT:
+remaining days are 4

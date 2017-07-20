@@ -1,0 +1,4 @@
+In this example weneed to count the occurence of number '4' in a list and to dothis we need to compare each element of the list and check if it is 4 or not.
+
+To go through each element of the list we will "for in" statement of python and also we need a variable that work as a count and each time 4 is found in the list, count will increase by 1.
+

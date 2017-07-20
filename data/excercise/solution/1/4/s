@@ -1,0 +1,22 @@
+str1 = input( "Enter str1 : " )
+
+str2 = input( "Enter str2 : " )
+
+l1 = len( str1 )
+
+l2 = len( str2 )
+
+if l1 < 2 or l2 < 2:
+		print( "Enpty string " )
+		exit()
+
+str_swap1 = str2[ :2 ] + str1[ 2:l1 ]
+
+str_swap2 = str1[ :2 ] + str2[ 2:l2 ]
+
+str_new = str_swap1 + " " + str_swap2
+
+print( "new string = " + str_new )
+
+
+

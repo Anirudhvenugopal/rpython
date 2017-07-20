@@ -1,0 +1,12 @@
+str1 = input( "Enter a string : " )
+
+str2 = input( "Enter strip characters : " )
+
+str_new = ""
+
+for ch in str1:
+		if ch not in str2:
+				str_new += ch
+
+print( "new string = " + str_new )
+

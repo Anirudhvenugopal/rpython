@@ -1,0 +1,7 @@
+Wite a python program to findthe summ of all digits of a multiple digit numbers input by user.
+
+INPUT:
+Enter a multiple digit number: 12345
+
+OUTPUT:
+Sum of all digits is : 15

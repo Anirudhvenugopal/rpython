@@ -1,0 +1,8 @@
+Write a python program to compute the hypotenuse of a right angled triangle when base and height is given
+
+h*h = b*b + ht*ht
+
+h = hypotenuse
+b = base
+ht = height
+

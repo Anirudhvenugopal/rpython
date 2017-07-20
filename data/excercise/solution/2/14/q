@@ -1,0 +1,6 @@
+Write a program to shuffle a given list and print the new list.
+
+lst = [2,5,0,3,1,9,9,7]
+
+OUTPUT:
+#Different output each time

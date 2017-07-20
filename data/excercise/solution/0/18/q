@@ -1,0 +1,7 @@
+Write a python program to input a number from the user and check whether the number is even or odd .
+
+INPUT:
+Enter a number: 10
+
+OUTPUT:
+10 is Even Number

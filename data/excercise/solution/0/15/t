@@ -1,0 +1,6 @@
+This is a simple question where you need to check if a number if between (900 - 1000) or (1900 - 2000) and if it is, then return 'true' or else 'false'.
+
+We can easily do this using 'if else' statement but instead we will use another method.
+
+abs() function return the absolute value of an argument
+

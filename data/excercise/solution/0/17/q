@@ -1,0 +1,12 @@
+Write a python program to add 'Mr' to the beginning of a string and if the string already starts with 'Mr' then just display the string.
+
+INPUT: 
+Enter a string: Robot
+
+OUTPUT: Mr Robot
+
+INPUT:
+Enter a string: Mr Robot
+
+OUTPUT: Mr Robot
+

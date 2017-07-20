@@ -1,0 +1,19 @@
+str = input( "Enter a string : " )
+
+ln = len( str )
+
+if ln%3!=0 or ln==0:
+		print( "Wrong input!" )
+		exit()
+
+str_rv = ""
+
+ln -= 1
+
+while( ln > -1 ):
+		str_rv += str[ln]
+		ln -= 1
+
+print( "Reverse = " + str_rv )
+
+

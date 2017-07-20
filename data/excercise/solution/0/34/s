@@ -1,0 +1,7 @@
+print( "\t BIODATA" )
+
+print( "\t Name \t\t Danish Nayeem" )
+
+print( "\t Age \t\t 19" )
+
+print( "\t DOB \t\t 25-03-1997" )

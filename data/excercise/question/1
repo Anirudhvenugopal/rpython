@@ -1,0 +1,40 @@
+<b>1.Calculate length of a string</b>:PYTHON STRING:1
+<b>2.Calculate number of characters in a string</b>:PYTHON STRING:1
+<b>3.Create new string containing first & last 2 characters of a string</b>:PYTHON STRING:1
+<b>4.Change the occurence of first char to $ instead of first char itself</b>:PYTHON STRING:1
+<b>5.Get single string from 2 strings</b>:PYTHON STRING:1
+<b>6.Add 'ing' at the end of a given string</b>:PYTHON STRING:1
+<b>7.Find the first occurence of given strings</b>:PYTHON STRING:1
+<b>8.Calculate the length of the longest word in a list</b>:PYTHON STRING:1
+<b>9.Remove the nth index character from a string</b>:PYTHON STRING:1
+<b>10.Swap the first & last char of a string</b>:PYTHON STRING:1
+<b>11.Remove characters with odd index values</b>:PYTHON STRING:1
+<b>12.Count the occurence of each words in a sentence</b>:PYTHON STRING:1
+<b>13.Print a string in upper & lower case</b>:PYTHON STRING:1
+<b>14.Print a list of strings in alphabetical order</b>:PYTHON STRING:1
+<b>15.Create html strings with tags around the words</b>:PYTHON STRING:1
+<b>16.Insert a string in the middle of a string</b>:PYTHON STRING:1
+<b>17.Create a string with 4 copies of last 2 characters</b>:PYTHON STRING:1
+<b>18.Create a string with the 1st 3 characters of a string</b>:PYTHON STRING:1
+<b>19.Get the 1st half of a string</b>:PYTHON STRING:1
+<b>20.Reverse a string </b>:PYTHON STRING:1
+<b>21.Convert a string to all uppercase</b>:PYTHON STRING:1
+<b>22.Sort a string lexicographically</b>:PYTHON STRING:1
+<b>23.Remove newline from a paragraph</b>:PYTHON STRING:1
+<b>24.Check whether a string starts with a specified character</b>:PYTHON STRING:1
+<b>25.Create a Caesar encryption</b>:PYTHON STRING:1
+<b>26.Print formatted text as output</b>:PYTHON STRING:1
+<b>27.Remove existing indentation from all lines in a text</b>:PYTHON STRING:1
+<b>28.Add a prefix to all of the lines in a text</b>:PYTHON STRING:1
+<b>29.Set the indentation of the first line</b>:PYTHON STRING:1
+<b>30.Print a floating number up to 2 decimal places</b>:PYTHON STRING:1
+<b>31.Print a floating number with no decimal places</b>:PYTHON STRING:1
+<b>32.Print integers with zeros on the left of specified width</b>:PYTHON STRING:1
+<b>33.Print integer with * on the right of specified width</b>:PYTHON STRING:1
+<b>34.Display a number with a comma seperator</b>:PYTHON STRING:1
+<b>35.Format a number with a percentage</b>:PYTHON STRING:1
+<b>36.Display a number in left & right aligned with width 10</b>:PYTHON STRING:1
+<b>37.Count the occurence of a sub-string in a string</b>:PYTHON STRING:1
+<b>38.Reverse a string</b>:PYTHON STRING:1
+<b>39.Reverse words in a string</b>:PYTHON STRING:1
+<b>40.Strip a set of characters in a string</b>:PYTHON STRING:1

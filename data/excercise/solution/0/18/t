@@ -1,0 +1,6 @@
+In this example we only need to check whether the number is even or odd and to do we need to find the remainder after dividing the number by 2.
+Hope you already know what actually is even & odd number.
+
+So, to find the remainder we use % operator available in python and if the remainder after dividing by 2 comes to 0, then it is EVEN else it is ODD
+
+

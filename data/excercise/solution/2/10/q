@@ -1,0 +1,7 @@
+Write a python program to print common unique member between 2 given list.
+
+lst1 = [7,0,9,1,2]
+lst2 = [7,0,4,6,9]
+
+OUTPUT:
+COMMON MEMBERS = 7,0,9

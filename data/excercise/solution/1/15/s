@@ -1,0 +1,13 @@
+from math import ceil
+
+str = input( "Enter a string : " )
+
+strm = input( "Enter middle string : " )
+
+ln = len(str)
+
+mid = ceil(ln/2)
+
+str_new = str[ :mid ] + strm + str[ mid: ]
+
+print( "new string : " + str_new )

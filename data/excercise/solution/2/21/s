@@ -1,0 +1,13 @@
+lst = [ "python" , "java" , "html" , "php" , "css" ]
+
+elm = input( "Enter an element : " )
+
+if elm in lst:
+		elm_index = lst.index( elm )
+		print( "Index of element is =" , elm_index )
+else:
+		print( "Element Not Found!" )
+
+
+
+

@@ -1,0 +1,16 @@
+In this example we need to find the greatest common divisor (GCD) of 2 positive numbers.
+
+GCD of 2 numbers is the greatest number with which both the numbers are divisible.
+
+Suppose you have 2 numbers,
+
+n1 = 4
+n2 = 6
+
+now 6 is divisible by 1,2,3 and 4 isdivisible by 1,2
+So the common divisor's between 4 & 6 are 1,2.
+and between the common divisor(1,2) the greatest one is called GCD i.e. 2
+
+Hope you get this
+
+

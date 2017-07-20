@@ -1,0 +1,8 @@
+lst = input( "Enter comma separated nums:\n" )
+
+lst = lst.split( "," )
+
+mn = min( lst )
+
+print( "Minimum =" , mn )
+

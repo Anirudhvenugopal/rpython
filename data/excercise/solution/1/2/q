@@ -1,0 +1,18 @@
+Write a python program to create a new string containing the 1st and last 2 characters of a given string. if the length of string is less than 2, then return 'empty string'
+
+Example-1
+
+INPUT:
+Enter a string : danish
+
+OUTPUT:
+dash
+
+
+Example-2
+
+INPUT:
+Enter a string : d
+
+OUTPUT:
+empty string

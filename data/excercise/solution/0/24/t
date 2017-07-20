@@ -1,0 +1,3 @@
+In this example we will input comma separated number and then split them to create a list.
+
+then we will cycle through each elements in the list with "in" statement and will print "#" multiplied by the element in the list

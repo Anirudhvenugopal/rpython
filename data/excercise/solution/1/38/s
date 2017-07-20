@@ -1,0 +1,11 @@
+str1 = input( "Enter a string : " )
+
+lst = str1.split( " " )
+
+str_rv = ""
+
+for each in lst:
+		str_rv = each + " " + str_rv
+
+print( str_rv )
+

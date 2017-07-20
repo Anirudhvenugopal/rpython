@@ -1,0 +1,7 @@
+str = input( "Input String : " )
+
+tag = input( "Input tag : " )
+
+html = "<%s>%s</%s>"%( tag , str , tag )
+
+print( "html = " + html )

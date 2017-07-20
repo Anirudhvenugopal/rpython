@@ -1,0 +1,6 @@
+import cProfile
+
+def sum():
+	print( 2+3 )
+
+cProfile.run("sum()")

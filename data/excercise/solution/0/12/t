@@ -1,0 +1,9 @@
+Python provides a datetime module which has a function date() which return a date object,
+
+SYNTAX:
+date( year , month , day)
+ 
+the date object can manipulated as an integer, i.e
+we can subtract 2 date object to find the difference between them
+
+we will use the same date() function to create two date object and then we will subtract them to find the remaining days

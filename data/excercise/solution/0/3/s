@@ -1,0 +1,11 @@
+str1 = input("Input string 1 : ");
+
+str2 = input("Input string 2 : ");
+
+str_final = str2 + " " + str1;
+
+print( "String in reverse order is : \n" + str_final );
+
+
+
+

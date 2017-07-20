@@ -1,0 +1,5 @@
+The valume of a sphere is:
+
+vl = 4/3 * π * r3
+
+for r3(r cube), we can use r**3

@@ -1,0 +1,7 @@
+Write a python program to swap the first and last character of a string.
+
+INPUT:
+Enter a string : GOD
+
+OUTPUT:  
+New string : DOG

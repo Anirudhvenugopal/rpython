@@ -1,0 +1,9 @@
+Write a python program to find the first occurence of substrings 'not' & 'bas'. If 'bas' is ahead of 'not', then replace the whole string 'not'...'poor' with 'good'.
+
+INPUT:
+Enter sentence :
+handwriting is not that bad
+
+OUTPUT:
+handwriting is good
+

@@ -1,0 +1,7 @@
+Write a python program to calculate the character frequency of each character in the string.
+
+INPUT :
+Enter a string : google
+
+OUTPUT:
+{'g':2,'o':2,'l':1,'e':1}

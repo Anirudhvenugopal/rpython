@@ -1,0 +1,7 @@
+from random import shuffle
+
+lst = [2,5,0,3,1,9,9,7]
+
+shuffle( lst )
+
+print( "Shuffled list =" , lst )

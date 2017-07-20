@@ -1,0 +1,7 @@
+Write a python program to replace the first character with '$' and print the new string.
+
+INPUT:
+Enter a string : danish
+
+OUTPUT:
+$anish

@@ -1,0 +1,8 @@
+n = input( "Enter a number : " )
+
+n = int(n)
+
+chk = (abs(1000-n) <= 100) or (abs(2000-n) <= 100)
+
+print( chk )
+

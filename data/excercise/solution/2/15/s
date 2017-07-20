@@ -1,0 +1,7 @@
+lst = [7,0,9,1,2,7,2,0,8,2]
+
+lst_new = lst[:3] + lst[-3:]
+
+print( "New List =" , lst_new )
+
+

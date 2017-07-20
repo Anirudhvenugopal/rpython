@@ -1,0 +1,3 @@
+Write a python program to calculate final amount when principal, rate, and time is given.
+
+amount = p * r * t

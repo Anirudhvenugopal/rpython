@@ -1,0 +1,8 @@
+nums = input( "Enter comma separated positive numbers : " )
+
+nums = nums.split(",")
+
+for num in nums:
+		n = int(num)
+		print( "#" * n )
+

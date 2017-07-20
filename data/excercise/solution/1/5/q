@@ -1,0 +1,16 @@
+Write a python program to 'ing' at the end of a string and if the string already ends with 'ing' then add 'ly' instead at the end. if the length of the string is less than 3 then return the string unchanged.
+
+Example-1
+
+INPUT:
+Enter a string : dash
+
+OUTPUT: dashing
+
+
+Example-2:
+
+INPUT:
+Enter a string : dashing
+
+OUTPUT: dashingly

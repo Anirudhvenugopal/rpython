@@ -1,0 +1,48 @@
+<b>1.String contains only certain set of characters</b>:REGULAR EXPRESSION:12
+<b>2.String has an <u>a</u> followed by zero or more <u>b</u></b>:REGULAR EXPRESSION:12
+<b>3.String has an <u>a</u> followed by one or more <u>b</u></b>:REGULAR EXPRESSION:12
+<b>4.String has an <u>a</u> followed by zero or one <u>b</u></b>:REGULAR EXPRESSION:12
+<b>5.String has an <u>a</u> followed by 3 <u>b</u></b>:REGULAR EXPRESSION:12
+<b>6.String has an <u>a</u> followed by 2 to 3 <u>b</u></b>:REGULAR EXPRESSION:12
+<b>7.Find sequence of lowercase letters joined with underscore</b>:REGULAR EXPRESSION:12
+<b>8.Sequence of 1 uppercase letter followed by one lowercase letter</b>:REGULAR EXPRESSION:12
+<b>9.String has an <u>a</u> and ending with <u>b</u></b>:REGULAR EXPRESSION:12
+<b>10.Matches a word at the beginning of the string</b>:REGULAR EXPRESSION:12
+<b>11.Matches a word at the end of a string</b>:REGULAR EXPRESSION:12
+<b>12.Matches a word containing <u>z</u></b>:REGULAR EXPRESSION:12
+<b>13.Matches a word containing <u>z</u> at middle of the word</b>:REGULAR EXPRESSION:12
+<b>14.String contains only upper & lowercase letters & numbers & underscores</b>:REGULAR EXPRESSION:12
+<b>15.String starts with a specific number</b>:REGULAR EXPRESSION:12
+<b>16.Remove leading zeros from an IP addr.</b>:REGULAR EXPRESSION:12
+<b>17.Check for a number at the end of string</b>:REGULAR EXPRESSION:12
+<b>18.Search numbers in a given string</b>:REGULAR EXPRESSION:12
+<b>19.Search some literals strings in a string</b>:REGULAR EXPRESSION:12
+<b>20.Search literal strings in a string along with the location</b>:REGULAR EXPRESSION:12
+<b>21.Find substring within a string</b>:REGULAR EXPRESSION:12
+<b>22.Find the occurence & position of a substring within a string</b>:REGULAR EXPRESSION:12
+<b>23.Replace whitespaces with an underscore</b>:REGULAR EXPRESSION:12
+<b>24.Extract year month & date from a URL</b>:REGULAR EXPRESSION:12
+<b>25.Convert date yyyy-mm-dd to dd-mm-yyyy</b>:REGULAR EXPRESSION:12
+<b>26.Match if 2 words in a list of words starts with <u>p</u></b>:REGULAR EXPRESSION:12
+<b>27.Separate & print the numbers of a given string</b>:REGULAR EXPRESSION:12
+<b>28.Find all words starting with <u>a</u> or <u>e</u></b>:REGULAR EXPRESSION:12
+<b>29.Separate & print numbers & their position in a string</b>:REGULAR EXPRESSION:12
+<b>30.Abbreviate <u>Road</u> as <u>Rd</u> in a string</b>:REGULAR EXPRESSION:12
+<b>31.Replace all occurence of space comma or dot with a colon</b>:REGULAR EXPRESSION:12
+<b>32.Find all 5 characters long words in a string</b>:REGULAR EXPRESSION:12
+<b>33.Replace maximum 2 occurences of space comma or dot with a colon</b>:REGULAR EXPRESSION:12
+<b>34.Find all 3 & 5 character words in a string</b>:REGULAR EXPRESSION:12
+<b>35.Find all words which are atleast 4 character long</b>:REGULAR EXPRESSION:12
+<b>36.Snake case string to camel case string</b>:REGULAR EXPRESSION:12
+<b>37.Extract values between quotation marks of a string</b>:REGULAR EXPRESSION:12
+<b>38.Camel case string into snake case string</b>:REGULAR EXPRESSION:12
+<b>39.Remove multiple spaces in a string</b>:REGULAR EXPRESSION:12
+<b>40.Remove all white spaces from a string</b>:REGULAR EXPRESSION:12
+<b>41.Remove everything except alphanumeric characters</b>:REGULAR EXPRESSION:12
+<b>42.Find URLs in a string</b>:REGULAR EXPRESSION:12
+<b>43.Split a string at uppercase letters</b>:REGULAR EXPRESSION:12
+<b>44.Case-insensitive string replacement</b>:REGULAR EXPRESSION:12
+<b>45.Remove ANSI escape sequence from a string</b>:REGULAR EXPRESSION:12
+<b>46.Find adverbs and their position in a string</b>:REGULAR EXPRESSION:12
+<b>47.Split a string with multiple delimiters</b>:REGULAR EXPRESSION:12
+<b>48.Check a decimal with a precision of 2</b>:REGULAR EXPRESSION:12

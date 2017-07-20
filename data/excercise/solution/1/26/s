@@ -1,0 +1,12 @@
+import textwrap
+
+str1= """
+		these are the quotes of Mr.robot
+		1. Better the devil you know 
+		than the devil you dont
+		2.We live in a kingdom of
+		Bullshit
+"""
+
+print( textwrap.dedent( str1 ) )
+

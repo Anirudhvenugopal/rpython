@@ -1,0 +1,13 @@
+nums = input( "Enter coma separated numbers : " );
+
+list = nums.split( "," );
+
+tuple = tuple( list );
+
+print( "List : " , list );
+
+print( "Tuple : " , tuple );
+
+
+
+

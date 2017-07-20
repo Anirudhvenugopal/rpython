@@ -1,0 +1,11 @@
+Write a python program to count the occurence of a substring in a given string.
+
+INPUT:
+Enter a string :
+better the devil you know than the devil you dont
+
+Enter a subtring : devil
+
+
+OUTPUT:
+devil = 2

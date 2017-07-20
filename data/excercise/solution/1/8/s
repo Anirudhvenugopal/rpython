@@ -1,0 +1,11 @@
+str = input( "Enter a string : " )
+
+n = int( input( "Enter index : " ) )
+
+str1 = str[ :n ]
+
+str2 = str[ n+1: ]
+
+str = str1 + str2
+
+print( str )

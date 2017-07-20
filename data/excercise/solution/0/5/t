@@ -1,0 +1,19 @@
+Python provides a method for strings to split them and create a list.
+
+Suppose you have a string str with comma separated colors "orange,red,blue"
+
+now,
+str.split( "," ) creates a list containing all colors seperately.
+[ "orange" , "red" , "blue" ]
+
+So, the split method breaks a single string into muliple strings for easy manipulation.
+
+Suppose the user input a filename,
+fn = "file.py"
+
+to find the extension,
+
+* we need to split the filename with a dot(.) which will create a list containing two words ["file","py"] where the last word is the extension of that file that can be accessed with list[-1] which returns the element at -1 (last element).
+
+
+ 

@@ -1,0 +1,10 @@
+Write a python program to remove even elements from a list of integers.
+
+lst = [2,5,0,3,1,9,9,7]
+
+OUTPUT:
+Filtered List = [5,3,9,7]
+
+
+
+

@@ -1,0 +1,15 @@
+<b>1.Create a set</b>:PYTHON SETS:5
+<b>2.Itirate over a set</b>:PYTHON SETS:5
+<b>3.Add members in a set</b>:PYTHON SETS:5
+<b>4.Remove items from a set</b>:PYTHON SETS:5
+<b>5.Remove an item if present in a set</b>:PYTHON SETS:5
+<b>6.Create an intersection of sets</b>:PYTHON SETS:5
+<b>7.Create a union of sets</b>:PYTHON SETS:5
+<b>8.Create set difference</b>:PYTHON SETS:5
+<b>9.Create a symmetric difference</b>:PYTHON SETS:5
+<b>10.Use issubset & issuperset</b>:PYTHON SETS:5
+<b>11.Create a shallow copy of a set</b>:PYTHON SETS:5
+<b>12.Clear a set</b>:PYTHON SETS:5
+<b>13.Use frozensets</b>:PYTHON SETS:5
+<b>14.Find maximum & minimum value in a set</b>:PYTHON SETS:5
+<b>15.Find the length of a set</b>:PYTHON SETS:5

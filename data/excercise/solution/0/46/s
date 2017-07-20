@@ -1,0 +1,5 @@
+n = "1.732"
+
+print( "Float" , float(n) )
+
+print( "Integer" , int( float(n) ) )

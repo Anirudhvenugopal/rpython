@@ -1,0 +1,6 @@
+ob = input( "Enter something : " )
+
+if ob.isdigit():
+		print( ob , " Is integer" )
+else:
+		print( ob , " is string" )

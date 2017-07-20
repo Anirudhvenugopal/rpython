@@ -1,0 +1,9 @@
+Write a python program to create an html strings with tags around the words.
+
+INPUT:
+Enter string: RICHWEB
+Enter tag: h1
+
+OUTPUT:
+html tag = <h1>RICHWEB</h1>
+

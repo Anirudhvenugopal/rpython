@@ -1,0 +1,12 @@
+<b>1.Read an entire text file</b>:FILE I/O:11
+<b>2.Read first n lines of a file</b>:FILE I/O:11
+<b>3.Append text to a file</b>:FILE I/O:11
+<b>4.Read last n lines of a file</b>:FILE I/O:11
+<b>5.Read a file line by line & store in list</b>:FILE I/O:11
+<b>6.Read a file line by line & store in a variable</b>:FILE I/O:11
+<b>7.read a file line by line & store in array</b>:FILE I/O:11
+<b>8.Find longest word in a file</b>:FILE I/O:11
+<b>9.Count number of lines in a text file</b>:FILE I/O:11
+<b>10.Count frequency of words in a file</b>:FILE I/O:11
+<b>11.Get the file size of a plain file</b>:FILE I/O:11
+<b>12.Write a list to file</b>:FILE I/O:11

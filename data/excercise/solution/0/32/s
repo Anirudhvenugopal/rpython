@@ -1,0 +1,14 @@
+n = input( "Enter a multiple digit number : " )
+
+n = int(n)
+
+sum = 0
+
+while n != 0:
+		i = n%10
+		n = n-i
+		n = n/10
+		sum += i
+
+print( "Sum of all digits is :" , int(sum) )
+

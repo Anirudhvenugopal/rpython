@@ -1,0 +1,12 @@
+Write a python program to find the words that are longer than n,where n is an integer input by user and list is as follows.
+
+lst = [ "python","assembly","cpp","html","javascript" ]
+
+INPUT:
+Enter n: 5
+
+OUTPUT:
+python
+assembly
+javascript
+

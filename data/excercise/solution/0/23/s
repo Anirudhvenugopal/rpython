@@ -1,0 +1,10 @@
+nums = input( "Enter a group of number : " )
+
+nums = nums.split(",")
+
+n = input( "Enter the number to check : " )
+
+if n in nums:
+		print( n + " exsist in the group" )
+else:
+		print( n + " does not exsist in the group" )

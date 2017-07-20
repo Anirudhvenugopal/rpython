@@ -1,0 +1,15 @@
+lst1 = [ 7 , 0 , 9 , 1 , 2 ]
+
+lst2 = [ 7 , 0 , 4 , 6 , 9 ]
+
+lst_cmn = []
+
+for i in lst1:
+		if i not in lst_cmn:
+				if i in lst2:
+						lst_cmn.append( i )
+
+print( "COMMON MEMBERS =" , lst_cmn )
+
+
+

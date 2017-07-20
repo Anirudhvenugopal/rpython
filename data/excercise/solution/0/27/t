@@ -1,0 +1,5 @@
+Python provides many manipulation methods for sets.
+
+In this example we need to print out the unique number between 2 lists.
+
+To dothis, we need to convert the lists into sets and then use a method difference() which return the unique elements between 2 sets.

@@ -1,0 +1,11 @@
+n = input( "Enter a number : " )
+
+n = int(n)
+
+n1 = n*10+n
+
+n2 = n1*10+n
+
+sum = n+n1+n2
+
+print( "Value of {}+{}+{} is {}".format(n,n1,n2,sum) )

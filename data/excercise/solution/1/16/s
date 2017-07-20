@@ -1,0 +1,9 @@
+str = input( "Enter a string : " )
+
+ln = len(str)
+
+strn = str[ ln-2: ] * 4
+
+print( "New string = " + strn )
+
+

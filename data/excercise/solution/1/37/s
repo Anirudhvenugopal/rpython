@@ -1,0 +1,9 @@
+str1 = input( "Enter a string : " )
+
+str_rv = ""
+
+for ch in str1:
+		str_rv = ch + str_rv
+
+print( str_rv )
+

@@ -1,0 +1,5 @@
+Write a python program to concatenate all elements in the given list into a single string.
+
+SAMPLE DATA: [1,2,3,4,5]
+
+OUTPUT: 12345

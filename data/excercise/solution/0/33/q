@@ -1,0 +1,8 @@
+Write a python program to find the total occurence of a character in a given string input by user.
+
+INPUT:
+Enter a string : let me love you
+Enter a character : e
+
+OUTPUT:
+e occurs 3 times

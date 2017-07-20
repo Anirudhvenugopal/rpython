@@ -1,0 +1,12 @@
+lst = [ "python" , "html" , "css" , "php" , "js" ]
+
+n = input( "Enter index: " )
+
+n = int( n )
+
+lst.pop( n )
+
+print( "New List =" , lst )
+
+
+
